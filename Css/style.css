@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-mark {
+    background: #E76F51;
+    margin-left: 100px;
+    border: none;
+    color: white;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.btn-buy {
+    color: white;
+    background: #E76F51;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+}
